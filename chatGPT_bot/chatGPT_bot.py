@@ -1,5 +1,5 @@
 import openai
-openai.api_key = f'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'
+openai.api_key = f'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'
 
 while True:  
     completion = openai.ChatCompletion.create(
